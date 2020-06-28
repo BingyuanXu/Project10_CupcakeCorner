@@ -7,8 +7,10 @@ To start this app, you will need to run with Xcode
 
 ## Main Page
 
-- press the top-right "+" button to add a book
+- select your cake type,number and special requests
 
-- press the top-left "edit" button to edit the book list
+- set your delivery details
 
-- press the list element to check the book detail
+- press checkout to comfirm your oder 
+
+- press place oder to send JSON
